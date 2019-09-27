@@ -1,0 +1,30 @@
+.thumbnail img{
+  width: 100%;
+}
+
+.thumbnail {
+  border: 1px solid grey;
+  padding: 0;
+  border-radius: 5px;
+}
+
+.thumbnail .caption-full {
+  padding: 9px;
+}
+
+.well {
+  background-color: antiquewhite;
+  margin-top: 20px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+#delete-form{
+  display: inline;
+}
+
+.card-price{
+  display: flex;
+  justify-content: space-between;
+}
